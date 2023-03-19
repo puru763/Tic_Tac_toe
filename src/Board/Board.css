@@ -4,6 +4,9 @@
     align-items: center;
 }
 
-.board-contain{
-    margin: 10%;
+.board-container{
+    margin: 20%;
+    background-color: black;
+    color: aliceblue;
+  
 }
